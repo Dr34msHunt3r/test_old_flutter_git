@@ -32,6 +32,13 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+#  video_player:
+#    git:
+#      url: https://github.com/nathanaelneveux/flutter-plugins.git
+#      path: packages/video_player/video_player
+#      ref: v1.0.1-iOS-HLS-fix
+  video_player:
+    path: packages/video_player/video_player
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
